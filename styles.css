@@ -1,0 +1,17 @@
+body {
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+img {
+    max-height: 700px;
+    text-align: center;
+}
